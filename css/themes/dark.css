@@ -2117,7 +2117,10 @@ button.close:hover {
 
 /* highlight messages */
 .highlight {
-    color: yellow;
+    /* color: yellow; */
+    background-color: rgb(217, 83, 79);
+    color: #ddd;
+
     font-weight: bold;
 }
 
